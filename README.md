@@ -14,26 +14,17 @@ I'm a Software/Web Developer based in the Philippines, passionate about web deve
 ---
 
 ### 🧑‍💻 Tech Stack
+**Languages & Frameworks**
 
-**Web Development**
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,python,java,kotlin,cs,cpp" /></a>
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs" /></a>
+**Databases & Backend Tools**
 
-**Mobile Development**
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,supabase,gradle" /></a>
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kotlin,java" /></a>
+**Design, Tools & Environment**
 
-**Software & Core Development**
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,kotlin,js,php" /></a>
-
-**Databases**
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,supabase" /></a>
-
-**Tools & Environment**
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=idea,vscode,windows" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,notion,idea,vscode,windows,discord" /></a>
 
 ---
 
