@@ -18,13 +18,13 @@ I'm a Software/Web Developer based in the Philippines, passionate about web deve
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,python,java,kotlin,cs,cpp" /></a>
 
-**Databases & Backend Tools**
-
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,supabase,gradle" /></a>
-
 **Design, Tools & Environment**
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,notion,idea,vscode,windows,discord" /></a>
+
+**Databases & Backend Tools**
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,supabase,gradle" /></a>
 
 ---
 
