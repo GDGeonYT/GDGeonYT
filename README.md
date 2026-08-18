@@ -37,9 +37,8 @@ I'm a Software/Web Developer based in the Philippines, passionate about web deve
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GDGeonYT&show_icons=true&theme=tokyonight&count_private=true" alt="Geon's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GDGeonYT&layout=compact&theme=tokyonight&hide=html" alt="Top Languages" width="48%" />
+  <i>"Experiences of the past have formed who I am now, and that flawed performance has also become the most important part of me."</i>
+  <br>
+  <b>- Furina (Genshin Impact)</b>
 </p>
