@@ -2,7 +2,7 @@
 
 [![GitHub Followers](https://img.shields.io/github/followers/GDGeonYT?style=social)](https://github.com/GDGeonYT)
 
-I'm a Software/Web Developer based in the Philippines, passionate about web development, AI integration, and building useful tools.
+I'm a Software/Web Developer based in the Philippines, passionate about web development, AI integration, and building useful tools. Also into video editing and making youtube content
 
 ---
 
